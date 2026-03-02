@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 <img width="341" height="841" alt="Screenshot 2026-03-02 203421" src="https://github.com/user-attachments/assets/3ca34450-494d-430b-af26-9cfdf570a129" />
 <img width="376" height="832" alt="Screenshot 2026-03-02 203440" src="https://github.com/user-attachments/assets/bfa5363b-1502-405b-856a-07ae426fc0db" />
 <img width="392" height="862" alt="Screenshot 2026-03-02 203333" src="https://github.com/user-attachments/assets/0de86e19-5e4b-45a3-83cd-f22458cf8de0" />
-![WhatsApp Image 2026-03-02 at 8 34 31 PM](https://github.com/user-attachments/assets/b1265f13-6439-4b4d-861d-fa1f62790363)
+<img width="387" height="808" alt="Screenshot 2026-03-02 204513" src="https://github.com/user-attachments/assets/52cee267-ddea-46fd-995b-db9cdbe9c329" />
